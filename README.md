@@ -1,2 +1,3 @@
 # Hello_World
-First repo.
+This is the first GitHub Repo.
+
